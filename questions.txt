@@ -1,0 +1,2 @@
+Q1: Could we have two or three sample essays with different definition of ending sentence delimiters and with different special words (I'm, 2.0 and 1,234, etc.) and your expected results?
+Q2: What kind of message or recommendation should the program offer, if the average number of words exceeded the requirement? 
